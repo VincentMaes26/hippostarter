@@ -1,0 +1,1 @@
+23.05.2018 12:03:15 INFO  pool-3-thread-1 [AuditLogger.logHippoEvent:45] {"application":"cms","success":true,"action":"login","category":"security","message":"login successful","user":"admin","remoteAddress":"0:0:0:0:0:0:0:1","timestamp":1527069795307}

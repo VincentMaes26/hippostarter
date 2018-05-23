@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="myhippoproject-cms" />
+        <module name="myhippoproject-essentials" />
+        <module name="myhippoproject-repository-data-application" />
+        <module name="myhippoproject-repository-data-development" />
+        <module name="myhippoproject-repository-data-webfiles" />
+        <module name="myhippoproject-site" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="myhippoproject" target="1.5" />
+      <module name="myhippoproject-cms" target="1.8" />
+      <module name="myhippoproject-essentials" target="1.8" />
+      <module name="myhippoproject-repository-data" target="1.5" />
+      <module name="myhippoproject-repository-data-application" target="1.8" />
+      <module name="myhippoproject-repository-data-development" target="1.8" />
+      <module name="myhippoproject-repository-data-webfiles" target="1.8" />
+      <module name="myhippoproject-site" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

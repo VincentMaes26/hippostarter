@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.onehippo.cms7:jcrdiff-client:1.01.06">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/onehippo/cms7/jcrdiff-client/1.01.06/jcrdiff-client-1.01.06.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/onehippo/cms7/jcrdiff-client/1.01.06/jcrdiff-client-1.01.06-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/onehippo/cms7/jcrdiff-client/1.01.06/jcrdiff-client-1.01.06-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
