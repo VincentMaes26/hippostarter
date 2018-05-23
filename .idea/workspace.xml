@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4732b44-d6f6-4593-a04a-9a173fd2ca4f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/workspaces/default/db.h2.db" beforeDir="false" afterPath="$PROJECT_DIR$/storage/workspaces/default/db.h2.db" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/site/target/" />
     <ignored path="$PROJECT_DIR$/repository-data/application/target/" />
@@ -44,7 +44,7 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="Simpledocument.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Simpledocument.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/site/src/main/java/org/example/beans/Simpledocument.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
@@ -53,11 +53,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SimpleComponent.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SimpleComponent.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/site/src/main/java/org/example/components/SimpleComponent.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="493">
-              <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+              <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -462,18 +462,19 @@
       <updated>1526391326588</updated>
       <workItem from="1526391330256" duration="6045000" />
       <workItem from="1526990510732" duration="1139000" />
-      <workItem from="1527066993033" duration="3334000" />
+      <workItem from="1527066993033" duration="4036000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10518000" />
+    <option name="totallyTimeSpent" value="11220000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="7" side_tool="true" visible="true" weight="0.32943678" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32943678" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info id="Capture Tool" order="2" />
@@ -612,13 +613,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/site/src/main/java/org/example/beans/Simpledocument.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/site/src/main/java/org/example/beans/BaseDocument.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -629,10 +623,17 @@
     <entry file="file://$PROJECT_DIR$/site/src/main/java/org/example/components/SimpleComponent.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
-          <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/src/main/java/org/example/beans/Simpledocument.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
